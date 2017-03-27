@@ -1,0 +1,20 @@
+img{
+/*The percent is relative to the body*/
+  width: 30%;
+/*floating the iamges gets rid of the white space inbetween*/
+/*allows us to add our own custom spacing rather than the small spacing html initially gives*/
+  float: left;
+  margin: 1.66%;
+}
+p{
+  border-bottom: 2px solid #f1f1f1;
+  text-transform: uppercase;
+  font-family: 'Raleway', sans-serif;
+  font-size: 23px;
+  font-weight: 800;
+  margin-left: 1.66%;
+  width: 30%;
+  padding-bottom: 20px;
+
+}
+s
